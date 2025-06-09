@@ -64,7 +64,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📌 Credits
 
-Built and maintained by [Mannepalli Bala Praharsha] and a passion for connecting math to machine intelligence.
+Built and maintained by **Mannepalli Bala Praharsha** and a passion for connecting math to machine intelligence.
 
 ---
 
