@@ -54,11 +54,6 @@ A curated collection of interactive Jupyter notebooks that cover **core mathemat
 
 Pull requests are welcome! If you have suggestions for improving explanations, adding new topics, or fixing bugs, feel free to open an issue or PR.
 
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
