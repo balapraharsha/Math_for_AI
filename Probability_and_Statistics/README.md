@@ -17,6 +17,17 @@ This Jupyter notebook presents core **Probability and Statistics** concepts with
 - Covariance, Correlation & Dependence  
 
 ---
+## 📌 From-Scratch ML Implementations
+
+* **Naive Bayes Classifier**  
+  - Using conditional probability and Bayes’ Theorem
+
+* **A/B Testing Framework**  
+  - Implementing hypothesis testing for model comparison
+
+* **Sampling Simulations**  
+  - Central Limit Theorem visualization with repeated samples
+---
 
 ## 📌 Machine Learning Applications:
 
